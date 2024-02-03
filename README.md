@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Sabrina Coppola</h1>
-<h3 align="center">A CS major undergrad at WCU.</h3>
 
 - 🌱 I’m currently learning **all I can!**
 
