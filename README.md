@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sabrina Coppola</h1>
 
-- 🌱 I’m currently learning **all I can!**
+- 🌱 I’m currently learning **all I can!** Repositories are still in the works so feel free to ask me for more details about the projects I have completed!
 
 - 📄 Know about my experiences [linkedin.com/in/sabrinacoppola](linkedin.com/in/sabrinacoppola)
 
