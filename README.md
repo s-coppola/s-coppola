@@ -1,7 +1,7 @@
 # 👋 Welcome to My GitHub | Lycanridge Productions
 
 ### 🌌 About Me
-Hi, I'm a fantasy writer, worldbuilder, and creative mind behind **Lycanridge Productions**—an independent publishing house dedicated to **epic storytelling and immersive fantasy worlds**.
+I'm a fantasy writer, worldbuilder, and creative mind behind **Lycanridge Productions**—an independent publishing house dedicated to **epic storytelling and immersive fantasy worlds**.
 
 At the heart of Lycanridge is my debut book series, **The Great Ember**, a saga that explores **gods, fate, and the power of choice**. As I work toward publishing my first book, Lycanridge Productions is growing into **a home for future storytelling endeavors and creative projects**.
 
