@@ -1,10 +1,34 @@
-<h1 align="center">Hi 👋, I'm Sabrina Coppola</h1>
+# 👋 Welcome to My GitHub | Lycanridge Productions
 
-- 🌱 I’m currently learning **all I can!** Repositories are still in the works so feel free to ask me for more details about the projects I have completed!
+### 🌌 About Me
+Hi, I'm **Sabrina M. Coppola**, a fantasy writer, worldbuilder, and creative mind behind **Lycanridge Productions**—an independent publishing house dedicated to **epic storytelling and immersive fantasy worlds**.
 
-- 📄 Know about my experiences [linkedin.com/in/sabrinacoppola](linkedin.com/in/sabrinacoppola)
+At the heart of Lycanridge is my debut book series, **The Great Ember**, a saga that explores **gods, fate, and the power of choice**. As I work toward publishing my first book, Lycanridge Productions is growing into **a home for future storytelling endeavors and creative projects**.
 
-- ⚡ Fun fact **I have a BS in Chemistry**
+---
 
-<h3 align="left">Languages and Tools I dabble in:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
+### 🚀 **What I Do**
+Currently, Lycanridge Productions focuses on:
+- **📖 Writing & Publishing**: Crafting immersive high-fantasy stories.
+- **🌍 Worldbuilding**: Developing intricate mythologies and lore.
+- **🖋 Editing & Formatting**: (Potential future expansion).
+- **🎭 Scriptwriting & Adaptation**: Bringing stories to life in multimedia formats.
+
+---
+
+### 🌟 **Current Projects**
+🔹 **The Great Ember** – *An epic fantasy novel, currently in the editing phase.*  
+🔹 **LycanridgeProductions.com** – *The official website showcasing books, services, and creative work.*  
+🔹 **Beyond** – *Future expansions into indie author services & media production.*
+
+---
+
+### 🔗 **Connect with Me**
+📌 **Website:** [LycanridgeProductions.com](Under Construction)  
+📌 **Instagram:** [@LycanridgeProductions](https://www.instagram.com/lycanridgeproductions)  
+📌 **GitHub Portfolio:** *You're already here!*
+
+---
+
+### ✨ **Personal Mission Statement**
+*"Lycanridge Productions: The Journey Begins Here."*
