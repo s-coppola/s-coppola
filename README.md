@@ -44,9 +44,5 @@ Original screenplays for television and film.
 - 💼 LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/sabrinacoppola/)
 - 🖥️ GitHub: [My GitHub Profile](https://github.com/s-coppola)
 - 📘 Facebook: [Lycanridge Productions](https://www.facebook.com/lycanridgeproductions)
+- 📷 Shutterstock: [View My Contributor Portfolio](https://www.shutterstock.com/g/LycanridgeProductions)
 - ✉️ Email: [contact@lycanridgeproductions.com](mailto:contact@lycanridgeproductions.com)
-
----
-
-### ✨ **Personal Mission Statement**
-*"Lycanridge Productions: The Journey Begins Here."*
